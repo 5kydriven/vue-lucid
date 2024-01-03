@@ -15,8 +15,8 @@ export default {
   data() {
     return {
       siteName: "Lucid",
-      loginUrl: "signin.php",
-      signupUrl: "signup.php",
+      loginUrl: "/signin",
+      signupUrl: "/signup",
     };
   },
 };
