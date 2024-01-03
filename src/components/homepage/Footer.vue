@@ -30,7 +30,7 @@ export default {
     flex-direction: row;
     border-top: 1px solid rgba(255,255,255,.4);
     width: 80%;
-    margin-top: 75px;
+    margin-top: 89px;
 }
 
 .item{
