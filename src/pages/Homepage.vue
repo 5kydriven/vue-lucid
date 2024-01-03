@@ -6,7 +6,7 @@
             <div class="container">
                 <h2 class="introtitle">Elevate the global conversation</h2>
                 <p class="intro">Lucids is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.</p>
-                <a href="signup.php"><button id="joinbtn">Join Lucid Now</button></a>
+                <a href="/signup"><button id="joinbtn">Join Lucid Now</button></a>
             </div>
         </div>
         <!-- Footer -->
@@ -34,7 +34,7 @@
     background-image: url(../assets/neural.png);
     line-height: 20px;
     font-family: 'Roboto', sans-serif;
-    
+    height: auto;
 }
 
 /* body */
@@ -46,6 +46,7 @@
     justify-content: flex-start;
     padding: 5em 0 0 10%;
     z-index: 1;
+    
 }
 
 .container{
