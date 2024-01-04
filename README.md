@@ -1,7 +1,5 @@
 # Lazy to finish
 
-# vue-practice
-
 ## Project setup
 ```
 npm install
